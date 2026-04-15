@@ -133,7 +133,7 @@ echo "<p style='color:lime;text-align:center;'>Order Saved!</p>";
 
     <!-- HEADER -->
     <div class="header">
-        <div>Urban Nest Hotel</div>
+        <div class="logo">Urban Nest Hotel</div>
         <div class="nav">
             <a href="home.php">Home</a>
             <a href="about.php">About</a>
